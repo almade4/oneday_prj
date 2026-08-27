@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>kr.co.sist</groupId>
-	<artifactId>oneday_class</artifactId>
+	<artifactId>oneday_prj</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>oneday_class</name>
+	<name>oneday_prj</name>
 	<description>Oneday Class Project</description>
 
 	<properties>
