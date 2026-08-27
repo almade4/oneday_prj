@@ -1,4 +1,4 @@
-package kr.co.sist;
+package kr.co.oneclass.admin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
